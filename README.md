@@ -28,7 +28,7 @@ Legend: ⬜ todo, ✅ done, 🟨 bad-day version
 
 | Day | Project | Status |
 |-----|---------|--------|
-| 1 | Tip calculator | ⬜ |
+| 1 | Tip calculator | ✅ |
 | 2 | Number guessing game | ⬜ |
 | 3 | Dice roller | ⬜ |
 | 4 | Unit converter | ⬜ |
